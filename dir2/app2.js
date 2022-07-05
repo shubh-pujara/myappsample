@@ -1,0 +1,1 @@
+console.log("Hello Ia= am In Dir 2 and my name is app2 .js");
